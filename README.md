@@ -1,6 +1,14 @@
 # Web-Scraping-Tables-for-Car-Sales-Data-
 In this project, US car sales 2023 data is web scraped from goodcarbadcar.net. After scraping data in Jupter with Python and Beautiful Soup, Visualization is completed on Tableau.
 
+**Importing the required libraries**
+
+requests
+
+pandas
+
+BeautifulSoup
+
 **Description**
 
 Passionate tracking of U.S. & Canadian auto sales data from good car bad car website.
